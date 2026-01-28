@@ -1,0 +1,3 @@
+numpy
+nats-py
+protobuf

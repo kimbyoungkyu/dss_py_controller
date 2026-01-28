@@ -5,8 +5,6 @@ Python-based Controller Framework for **DSS (Divine Sim Suite)**
 이 저장소는 DSS 시뮬레이터와 연동되는 **컨트롤러 SDK**로,
 센서 입력(NATS) → 판단 → 제어 출력(UDP) 구조를 표준화합니다.
 
-특히 **카메라 이미지 기반 컨트롤러**를 1급 시민(first-class)으로 설계했습니다.
-
 ---
 
 ## ✨ 주요 특징

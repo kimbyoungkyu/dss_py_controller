@@ -98,7 +98,6 @@ python run_controller.py --fake
 ### DSS 연동
 
 ```bash
-nats-server
 python run_controller.py
 ```
 
@@ -113,7 +112,3 @@ if state.camera:
 ```
 
 ---
-
-## 📄 라이선스
-
-TBD (MIT 권장)
